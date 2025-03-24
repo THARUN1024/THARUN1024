@@ -1,7 +1,5 @@
 # Glad You Stopped By! 🎯                                 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right">
-
 **"How do you eat an elephant? One bite at a time."** 🐘 - *Quote I live by.*
 
 ## From Data Enthusiast to Data Analyst!  
