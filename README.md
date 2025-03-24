@@ -1,6 +1,8 @@
 # Glad You Stopped By! 🎯                                 
 
-**"How do you eat an elephant? One bite at a time."** 🐘 - *Quote I live by.*
+**"How do you eat an elephant? One bite at a time."** 🐘 _— Quote I live by._
+
+
 
 ## From Data Enthusiast to Data Analyst!  
 Hey there 👋, I’m **Tharun**!
