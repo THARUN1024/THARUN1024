@@ -1,9 +1,8 @@
+# Glad You Stopped By! 🎯                                 
 
-# Glad You Stopped By! 🎯
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right">
 
-> **"How do you eat an elephant? One bite at a time."** 🐘 - Quote I live by
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+**"How do you eat an elephant? One bite at a time."** 🐘 - *Quote I live by.*
 
 ## From Data Enthusiast to Data Analyst!  
 Hey there 👋, I’m **Tharun**!
@@ -28,11 +27,11 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 
 ### 🌇 What I Am Currently Learning 🌃
 
-- ⚡ Optimizing SQL queries for better performance  
+- ⚡ Optimizing SQL queries for better performance                        
 - 🐍 Writing efficient Python code  
 - 🎨 Enhancing data visualization and dashboard design  
 
----
+---                                                   
 
 ## 🔍 Explore My Work
 You'll find my latest SQL, Python, and Data Visualization projects right here on GitHub! 🎳 
@@ -41,15 +40,16 @@ You'll find my latest SQL, Python, and Data Visualization projects right here on
 
 ## 📬 Let’s Connect!  
 <p align="left corner">
-  <a href="mailto:badavaththarun000@gmail.com">
+  <a href="mailto:badavaththarun000@gmail.com">              
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/tharun-badavath/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+</p>                                                     
 
 ---
 
- Tech excites me, but so does a great cup of coffee!☕  
+ Tech excites me, but so does a great cup of coffee!☕                
+                                                              
 ## Have an amazing day ahead! ⭐️✨
