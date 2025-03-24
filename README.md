@@ -52,6 +52,6 @@ You'll find my latest SQL, Python, and Data Visualization projects right here on
 
 ---
 
- Tech excites me, but so does a great cup of coffee!☕                
+ **Fun fact about me:** I re-read my own message when someone leaves me on read, just to check if it was actually dumb.🤔            
                                                               
 ## Have an amazing day ahead! ⭐️✨
