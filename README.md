@@ -55,4 +55,7 @@ You'll find my latest SQL, Python, and Data Visualization projects right here on
  **Fun fact about me:** I re-read my own message when someone leaves me on read, just to check if it was actually dumb.🤔            
                                                               
 ## Have an amazing day ahead! ⭐️✨
-
+### **👀Views Count**  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tharunbadavath&label=Profile+Views&color=blue&style=plastic">
+</p>
