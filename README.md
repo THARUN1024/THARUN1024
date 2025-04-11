@@ -1,8 +1,7 @@
 # Glad You Stopped By! 🎯                                 
 
 **"How do you eat an elephant? One bite at a time."** 🐘 _— Quote I live by._
-
-**"If it doesn’t have a purpose, it doesn’t have a place."** ✨ _— A rule I live by._  
+ 
 
 
 
