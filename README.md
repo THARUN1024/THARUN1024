@@ -32,12 +32,38 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 - 🐍 Writing efficient Python code  
 - 🎨 Enhancing data visualization and dashboard design  
 
----                                                   
+--- 
 
-## 🔍 Explore My Work
-You'll find my latest SQL, Python, and Data Visualization projects right here on GitHub! 🎳 
+
+<div class="container">
+    <h1>My Projects Repository</h1>
+    <div class="skills-container">
+        <!-- Skills Sections start here -->
+        <div class="skill-item">
+            <h3><strong>SQL</strong></h3>
+            <a href="https://github.com/THARUN1024/global-layoffs-2020-2023" target="_blank">1. global-layoffs-2020-2023</a><br>
+            <a href="https://github.com/THARUN1024/covid19-insights" target="_blank">2.covid19-insights </a><br>
+        </div>
+
+   <h3><strong>Python</strong></h3>
+            <a href="https://github.com/THARUN1024/Customer-Call-list-Cleaning" target="_blank">1. Call-list-Cleaning </a><br>
+        </div>
+        
+
+   <h3><strong>Tableau</strong></h3>
+            <a href="https://github.com/THARUN1024/Airbnb_Analysis_2016" target="_blank">1.Airbnb_Analysis_2016 </a><br>
+            <a href="https://github.com/THARUN1024/Sales-Insights" target="_blank">2. Sales-Insights</a><br>
+        </div> 
+        
+  <h3><strong>Excel</strong></h3>
+            <a href="https://github.com/THARUN1024/Bike-sales" target="_blank">1. Bike-sales</a><br>
+        </div>
+
+
+
 
 ---
+
 
 ## 📬 Let’s Connect!  
 <p align="left corner">
