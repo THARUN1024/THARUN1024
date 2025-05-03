@@ -35,8 +35,8 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 --- 
 
 
-<div class="container">
-    <h1>My Projects Repository</h1>
+## 📂 My Repository  
+<p align="left corner">
     <div class="skills-container">
         <!-- Skills Sections start here -->
         <div class="skill-item">
