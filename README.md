@@ -42,7 +42,7 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
         <div class="skill-item">
             <h3><strong>SQL</strong></h3>
             <a href="https://github.com/THARUN1024/global-layoffs-2020-2023" target="_blank">1. global-layoffs-2020-2023</a><br>
-            <a href="https://github.com/THARUN1024/covid19-insights" target="_blank">2.covid19-insights </a><br>
+            <a href="https://github.com/THARUN1024/covid19-insights" target="_blank">2. covid19-insights </a><br>
         </div>
 
    <h3><strong>Python</strong></h3>
@@ -51,7 +51,7 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
         
 
    <h3><strong>Tableau</strong></h3>
-            <a href="https://github.com/THARUN1024/Airbnb_Analysis_2016" target="_blank">1.Airbnb_Analysis_2016 </a><br>
+            <a href="https://github.com/THARUN1024/Airbnb_Analysis_2016" target="_blank">1. Airbnb_Analysis_2016 </a><br>
             <a href="https://github.com/THARUN1024/Sales-Insights" target="_blank">2. Sales-Insights</a><br>
         </div> 
         
