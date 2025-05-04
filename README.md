@@ -43,11 +43,13 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
             <h3><strong>SQL</strong></h3>
             <a href="https://github.com/THARUN1024/global-layoffs-2020-2023" target="_blank">1. global-layoffs-2020-2023</a><br>
             <a href="https://github.com/THARUN1024/covid19-insights" target="_blank">2. covid19-insights </a><br>
+            <a href="https://github.com/THARUN1024/Blinkit-sales-analysis" target="_blank">2. Blinkit-sales-analysis </a><br>
         </div>
 
    <h3><strong>Python</strong></h3>
             <a href="https://github.com/THARUN1024/Customer-Call-list-Cleaning" target="_blank">1. Call-list-Cleaning </a><br>
-        </div>
+            <a href="https://github.com/THARUN1024/Retail-Orders-Trends-Profitability" target="_blank">1. Retail-Orders-Trends-Profitability </a><br>
+            </div>
         
 
    <h3><strong>Tableau</strong></h3>
