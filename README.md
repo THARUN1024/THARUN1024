@@ -82,7 +82,3 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
  **Fun fact about me:** I re-read my own message when someone leaves me on read, just to check if it was actually dumb.🤔            
                                                               
 ## Have an amazing day ahead! ⭐️✨
-### **👀Views Count**  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tharunbadavath&label=Profile+Views&color=blue&style=plastic">
-</p>
