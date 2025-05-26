@@ -30,8 +30,7 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 
 - ⚡ Optimizing SQL queries for better performance                        
 - 🐍 Writing efficient Python code  
-- 🎨 Enhancing data visualization and dashboard design  
-- 🤖 Machine learning basics
+- 🎨 Enhancing data visualization and dashboard design
 --- 
 
 
