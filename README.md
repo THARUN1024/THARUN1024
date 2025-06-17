@@ -77,7 +77,5 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 </p>                                                     
 
 ---
-
- **Fun fact about me:** I re-read my own message when someone leaves me on read, just to check if it was actually dumb.🤔            
                                                               
 ## Have an amazing day ahead! ⭐️✨
