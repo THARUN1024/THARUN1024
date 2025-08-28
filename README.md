@@ -7,9 +7,9 @@
 
 ## From Data Enthusiast to Data Professional!  
 Hey there 👋, I’m **Tharun**!
-I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libraries like **Pandas, NumPy, Matplotlib, and Seaborn** to uncover meaningful insights from raw data.    
+I harness the power of **SQL, Python, Tableau, Excel**, and data libraries like **Pandas, NumPy, Matplotlib, and Seaborn** to uncover meaningful insights from raw data.    
 
-📊 **Data excites me, and so does the journey of continuous learning**—I’m eager to dive deeper into **AI and machine learning** in the future! 🚀  
+📊 **Data excites me, and so does the journey of continuous learning**—I’m eager to dive deeper into **Data Science and Data Engineering** in the future! 🚀  
 
 
 ---
@@ -28,9 +28,7 @@ I harness the power of **SQL, Python, Power BI, Tableau, Excel**, and data libra
 
 ### 🌇 What I Am Currently Learning 🌃
 
-- ⚡ Optimizing SQL queries for better performance                        
-- 🐍 Writing efficient Python code  
-- 🎨 Enhancing data visualization and dashboard design
+- ⚡ Machine Learning 
 --- 
 
 
