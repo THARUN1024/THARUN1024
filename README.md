@@ -9,7 +9,7 @@
 Hey there 👋, I’m **Tharun**!
 I harness the power of **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau, Excel** to uncover meaningful insights from raw data.    
 
-📊 **Data excites me, and so does the journey of continuous learning**—I’m eager to dive deeper into **Data Science and Data Engineering** in the future! 🚀  
+📊 **Data excites me, and so does the journey of continuous learning** - I’m eager to dive deeper into **Data Science and Data Engineering** in the future! 🚀  
 
 
 ---
