@@ -7,7 +7,7 @@
 
 ## From Data Enthusiast to Data Professional!  
 Hey there 👋, I’m **Tharun**!
-I harness the power of **SQL, Python, Tableau, Excel**, and data libraries like **Pandas, NumPy, Matplotlib, and Seaborn** to uncover meaningful insights from raw data.    
+I harness the power of **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau, Excel** to uncover meaningful insights from raw data.    
 
 📊 **Data excites me, and so does the journey of continuous learning**—I’m eager to dive deeper into **Data Science and Data Engineering** in the future! 🚀  
 
@@ -18,7 +18,6 @@ I harness the power of **SQL, Python, Tableau, Excel**, and data libraries like 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,7 +27,7 @@ I harness the power of **SQL, Python, Tableau, Excel**, and data libraries like 
 
 ### 🌇 What I Am Currently Learning 🌃
 
-- ⚡ Machine Learning 
+- ⚡ Machine Learning (Supervised & Unsupervised Algorithms)
 --- 
 
 
