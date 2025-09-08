@@ -30,7 +30,7 @@ I harness the power of **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Table
 
 ### 🌇 What I Am Currently Learning 🌃
 
-- ⚡ Machine Learning (Supervised & Unsupervised Algorithms)
+- Currently learning advanced SQL, Python (Pandas, NumPy) for analytics, and building interactive Tableau dashboards.
 --- 
 
 
