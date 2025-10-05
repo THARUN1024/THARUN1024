@@ -7,7 +7,7 @@
 
 ## From data to decisions — that’s my focus.  
 Hey there 👋, I’m **Tharun**!
-a Product & Data Analyst who enjoys exploring user behavior, visualizing trends, and driving insights through **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau, and Excel.**    
+a Product & Data Analyst who enjoys exploring user behavior, visualizing trends, and driving insights through **SQL, Python (Pandas, NumPy), Tableau, and Excel.**    
 
 🚀 Always learning how data shapes products and experiences.
 
