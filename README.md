@@ -5,11 +5,11 @@
 
 
 
-## From Data Enthusiast to Data Professional!  
+## From data to decisions — that’s my focus.  
 Hey there 👋, I’m **Tharun**!
-I harness the power of **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau, Excel** to uncover meaningful insights from raw data.    
+a Product & Data Analyst who enjoys exploring user behavior, visualizing trends, and driving insights through **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Tableau, and Excel.**    
 
-📊 **Data excites me, and so does the journey of continuous learning** - I’m eager to dive deeper into **Data Science and Data Engineering** in the future! 🚀  
+🚀 Always learning how data shapes products and experiences.
 
 
 ---
