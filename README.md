@@ -30,7 +30,7 @@ a Product & Data Analyst who enjoys exploring user behavior, visualizing trends,
 
 ### 🌇 What I Am Currently Learning 🌃
 
-- Currently learning advanced SQL, Python (Pandas, NumPy) for analytics, and building interactive Tableau dashboards.
+- Learning advanced SQL and Python to improve my analytics skills.
 --- 
 
 
