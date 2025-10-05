@@ -1,11 +1,11 @@
 # Glad You Stopped By! 🎯                                 
 
-**"How do you eat an elephant? One bite at a time."** 🐘 _— Quote I live by._
+**"How do you eat an elephant? One bite at a time."** 🐘 _- Quote I live by._
  
 
 
 
-## From data to decisions — that’s my focus.  
+## From data to decisions - that’s my focus.  
 Hey there 👋, I’m **Tharun**!
 a Product & Data Analyst who enjoys exploring user behavior, visualizing trends, and driving insights through **SQL, Python (Pandas, NumPy), Tableau, and Excel.**    
 
