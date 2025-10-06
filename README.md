@@ -1,13 +1,16 @@
 # Glad You Stopped By! 🎯                                 
 
-**"How do you eat an elephant? One bite at a time."** 🐘 _- Quote I live by._
- 
 
+**"How do you eat an elephant? One bite at a time."** 🐘 _- Quote I live by._
 
 
 ## From data to decisions - that’s my focus.  
 Hey there 👋, I’m **Tharun**!
 a Product & Data Analyst who enjoys exploring user behavior, visualizing trends, and driving insights through **SQL, Python (Pandas, NumPy), Tableau, and Excel.**    
+
+
+
+
 
 🚀 Always learning how data shapes products and experiences.
 
@@ -46,8 +49,9 @@ a Product & Data Analyst who enjoys exploring user behavior, visualizing trends,
         </div>
 
    <h3><strong>Python</strong></h3>
-            <a href="https://github.com/THARUN1024/Customer-Call-list-Cleaning" target="_blank">1. Call-list-Cleaning </a><br>
+            <a href="https://github.com/THARUN1024/AI-s-Bottom-Line-The-ROI-of-Innovation" target="_blank">1. AI-s-Bottom-Line-The-ROI-of-Innovation </a><br>
             <a href="https://github.com/THARUN1024/Retail-Orders-Trends-Profitability" target="_blank">2. Retail-Orders-Trends-Profitability </a><br>
+            <a href="https://github.com/THARUN1024/Customer-Call-list-Cleaning" target="_blank">3. Call-list-Cleaning </a><br>
             </div>
         
 
