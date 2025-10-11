@@ -50,6 +50,7 @@ a Product & Data Analyst who enjoys exploring user behavior, visualizing trends,
 
    <h3><strong>Python</strong></h3>
             <a href="https://github.com/THARUN1024/AI-s-Bottom-Line-The-ROI-of-Innovation" target="_blank">1. AI-s-Bottom-Line-The-ROI-of-Innovation </a><br>
+            <a href="https://github.com/THARUN1024/Diwali-Sales-Customer-Insights" target="_blank">2. Diwali-Sales-Customer-Insights </a><br>
             <a href="https://github.com/THARUN1024/Retail-Orders-Trends-Profitability" target="_blank">2. Retail-Orders-Trends-Profitability </a><br>
             <a href="https://github.com/THARUN1024/Customer-Call-list-Cleaning" target="_blank">3. Call-list-Cleaning </a><br>
             </div>
